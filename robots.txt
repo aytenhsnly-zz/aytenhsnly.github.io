@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://www.linkedin.com/in/huseynovaayten/sitemap.xml
+Sitemap: https://www.huseynli.me/sitemap.xml
